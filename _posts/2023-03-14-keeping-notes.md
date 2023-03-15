@@ -5,5 +5,4 @@ categories: [Meta]
 tags: [meta]
 ---
 
-# Keeping Notes
 I will be using this site to keep track of my personal dev notes/tidbits as they come up. Beats Notepad.
